@@ -17,7 +17,7 @@
 
 			<div class="entry-meta">
 				<?php twentyeleven_posted_on(); ?>
-			</div><!-- .entry-meta -->
+			</div><!-- .entry-meta -->qweqweqwe
 
 			<?php if ( comments_open() && ! post_password_required() ) : ?>
 			<div class="comments-link">
