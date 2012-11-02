@@ -1,4 +1,4 @@
-<?php
+qwe<?php
 /**
  * The template for displaying posts in the Link Post Format on index and archive pages
  *
@@ -6,7 +6,7 @@
  *
  * @package WordPress
  * @subpackage Twenty_Eleven
- * @since Twenty Eleven 1.0
+ * @since Twenty Eleven 1.0qweqweqwe
  */
 ?>
 
